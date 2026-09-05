@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 
 secret = 42 
 guess = 0
