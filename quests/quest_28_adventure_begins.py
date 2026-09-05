@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def forest():
     print("You are in a dark forest.")
     choice = input("Go LEFT or RIGHT? ").lower()
